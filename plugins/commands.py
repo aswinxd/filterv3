@@ -29,7 +29,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/TGxMULTIBOT?start=help")
+                InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{botusername}?start=help")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
