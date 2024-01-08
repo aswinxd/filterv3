@@ -1,12 +1,11 @@
 class script(object):
     START_TXT = """<b>
 Hy {},
-I'm a bot made for @Cinema_Beacon_Group!  I can help you find movies.🙂 For any enquiry contact Admin @SNEAK5166</b>"""
+I can help you find movies.🙂</b>"""
 
-    CAPTION = """
-<b>{file_name}
+    CAPTION = """<b> @videshayathra_official {file_name}</b> \n\n🎪 <b>𝐆𝐑𝐎𝐔𝐏 𝟏 </b> :- <b> t.me/+HUmd5AEEe5JiNWY1 </b>\n🎪 <b>𝐆𝐑𝐎𝐔𝐏 𝟐 </b> :- <b>t.me/+mU2l2SP0Yn4yMDQ1 </b>\n🎪 <b> ADULT MEDIA DISCUSSION </b> :- <b>t.me/+mU2l2SP0Yn4yMDQ1</b>\n🎪 <b>LATEST DVD UPDATES</b> :- <b>t.me/+Qy-zz2ZaXucyZDQ1 </b>\n🎪 <b>LATEST PRE-DVD UPDATES</b> :- <b>t.me/+1xmiPnkGt6VhMTc1</b>\n\n
 
-⚜️ Join @Cinema_Beacon_Group​</b>"""
+⚠️ <b>FILE WILL BE DELETE IN 5 MINUTES PLEASE FORWARD FILE TO SAVED MESSAGE OR ANYWHERE</b>"""
 
     
     HELP_TXT = """<i>🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈𝗈𝗈  {} 🤓
@@ -14,17 +13,12 @@ I'm a bot made for @Cinema_Beacon_Group!  I can help you find movies.🙂 For an
 ○  𝖲𝖾𝖺𝗋𝖼𝗁 𝗎𝗌𝗂𝗇𝗀 𝗂𝗇𝗅𝗂𝗇𝖾 𝗆𝗈𝖽𝖾...⭐
 𝖳𝗁𝗂𝗌 𝗆𝖾𝗍𝗁𝗈𝖽 𝗐𝗈𝗋𝗄𝗌 𝗈𝗇 𝖺𝗇𝗒 𝖼𝗁𝖺𝗍, 𝖩𝗎𝗌𝗍 𝗍𝗒𝗉𝖾 <b>Bot Username</b> 𝖺𝗇𝖽 𝗍𝗁𝖾𝗇 𝗅𝖾𝖺𝗏𝖾 𝖺 𝗌𝗉𝖺𝖼𝖾 𝖺𝗇𝖽 𝗌𝖾𝖺𝗋𝖼𝗁 𝖺𝗇𝗒 𝗆𝗈𝗏𝗂𝖾 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍..."""
     ABOUT_TXT = """<b>🥱 My Name : {}
-🕵‍♂ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/Sathan_Of_Telegram'>★『🔱』Dr.സാത്താൻ★</a>
+🕵‍♂ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/subotsupport'>★ subots</a>
 📚 Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 🖥 Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
-🎪 DᴀᴛᴀBᴀsᴇ : <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-🔋 Bᴏᴛɢʀᴏᴜᴘ : @Cinemaathattakam_Group </b>"""
+🎪 DᴀᴛᴀBᴀsᴇ : <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>"""
     SOURCE_TXT = """<b>NOTE:</b>
-<b>⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
-◆ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 𝖭𝖮𝖳 𝖠𝖵𝖠𝖨𝖫𝖠𝖡𝖫𝖤 𝖱𝖨𝖦𝖧𝖳 𝖭𝖮𝖶
-◆ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ : <a href=https://github.com/sathanxavier1998/autofilterctv5>[𝐂𝐓™]𝐀𝐮𝐭𝐨𝐟𝐢𝐥𝐭𝐞𝐫𝐛𝐨𝐭V3</a>
-◆ ʟᴏᴠᴇ ꜰʀᴏᴍ :  <a href=https://t.me/CT_Arena>Cinemaathattakam™</a>
-◆ Qᴜᴇʀɪᴇꜱ : <a href=https://t.me/Sathan_Of_Telegram>King</a></b>"""
+okDA"""
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
 
