@@ -68,6 +68,7 @@ PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Tnshort.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', '4bf1296f59ce349f014feabcf6d43250f0fe594e')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+uqYYOOtw6L0xMDI1')
 LOG_STR = "Current Cusomized Configurations are:-\n"
 LOG_STR += ("IMDB Results are enabled, Bot will be showing imdb details for you queries.\n" if IMDB else "IMBD Results are disabled.\n")
 LOG_STR += ("P_TTI_SHOW_OFF found , Users will be redirected to send /start to Bot PM instead of sending file file directly\n" if P_TTI_SHOW_OFF else "P_TTI_SHOW_OFF is disabled files will be send in PM, instead of sending start.\n")
